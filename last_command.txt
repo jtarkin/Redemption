@@ -1,0 +1,250 @@
+Last Command: Saer in room[3053]: e.
+Last Cprintf: Saer: %s
+Last Command: Reas in room[18965]: w.
+Last Cprintf: Reas: %s
+Last Command: mianda pragmati hunter drow ranger in room[31192]: drop all.
+Last Cprintf: black sliver pod: Alas, you cannot go that way.
+
+Last Command: raving lunatic in room[31052]: say coast as advance dragon parties seek out local settlements and fortifications..
+Last Cprintf: raving lunatic: {yYou say '%s'{x
+
+Last Command: Viscon in room[10604]: save.
+Last Cprintf: Viscon: Saving. Remember that Redemption has automatic saving.
+
+Last Command: Usion in room[10639]: imm and attempt to code (if needed).
+Last Cprintf: Yllidys nether dragon: Alas, you cannot go that way.
+
+Last Command: raving lunatic in room[31063]: say which commands a critical pass in the mountains..
+Last Cprintf: raving lunatic: {yYou say '%s'{x
+
+Last Command: Reydone in room[18959]: kick.
+Last Cprintf: dust covered traveller: You sure are BLEEDING!
+
+Last Command: Chinook in room[18354]: quit.
+Last Cprintf: Yllidys nether dragon: %s %s
+
+Last Command: custodian in room[3045]: sigh.
+Last Cprintf: Yllidys nether dragon: %s %s
+
+Last Command: Usion in room[10603]: get corpse.
+Last Cprintf: guard ghost dragon: You are frozen by the ice cold touch.
+
+Last Command: sengir bat in room[3025]: emote flaps around your head..
+Last Cprintf: sengir bat: %s %s
+
+Last Command: Wise Man in room[3170]: emote closes his eyes and begins to chant quietly..
+Last Cprintf: Yllidys nether dragon: %s %s
+
+Last Command: sengir bat in room[3012]: emote flaps around your head..
+Last Cprintf: drunken orc: You shiver and suffer.
+
+Last Command: sengir bat in room[3033]: emote flaps around your head..
+Last Cprintf: Yllidys nether dragon: Alas, you cannot go that way.
+
+Last Command: sengir bat in room[3012]: emote flaps around your head..
+Last Cprintf: sengir bat: %s %s
+
+Last Command: leather worker in room[3035]: emote begins to tan a hide at the back of the shop..
+Last Cprintf: System: {MYou newbie '%s'{x
+
+Last Command: jeweller in room[3034]: emote looks at you nervously. Perhaps he thinks you are about to rob him?.
+Last Cprintf: jeweller: %s %s
+
+Last Command: Valan the owner in room[3150]: emote walks over to a table and wipes it clean..
+Last Cprintf: troll scout sneaky little: You fail to move silently.
+
+Last Command: Valan the owner in room[3150]: emote begins to whistle a happy little tune..
+Last Cprintf: drunken orc: You shiver and suffer.
+
+Last Command: vagabond in room[3026]: emote watches you closely waiting for an opportunity to strike..
+Last Cprintf: vagabond: %s %s
+
+Last Command: bartender in room[3007]: say All you do is hang around here in my bar all day. You are pathetic!.
+Last Cprintf: bartender: {yYou say '%s'{x
+
+Last Command: beggar in room[3048]: emote falls to her knees and pleads for some spare change..
+Last Cprintf: sprout tiny roots: You fail to move silently.
+
+Last Command: beggar in room[3044]: emote falls to her knees and pleads for some spare change..
+Last Cprintf: beggar: %s %s
+
+Last Command: Wise Man in room[3170]: emote closes his eyes and begins to chant quietly..
+Last Cprintf: Wise Man: %s %s
+
+Last Command: 
+Last Cprintf: Yllidys nether dragon: Alas, you cannot go that way.
+
+Last Command: raving lunatic in room[31008]: say coast as advance dragon parties seek out local settlements and fortifications..
+Last Cprintf: raving lunatic: {yYou say '%s'{x
+
+Last Command: Nevro in room[3005]: wear ic.
+Last Cprintf: drunken courtesan: Kill stealing is not permitted.
+
+Last Command: Synistro in room[10605]: c ref syn.
+Last Cprintf: Synistro: You feel fully refreshed!
+
+Last Command: ares in room[11740]: k 5.zd.
+Last Cprintf: ares: %s orders you to '%s'.
+
+Last Command: Wern in room[865]: kick.
+Last Cprintf: Azuldan: You refresh the shielding.
+
+Last Command: Azzie in room[739]: who.
+Last Cprintf: nottingham guard: You feel poison coursing through your veins.
+
+Last Command: homer simpson in room[10539]: disarm.
+Last Cprintf: Azuldan: This room is already affected by the restriction of movement.
+
+Last Command: Caesar in room[11740]: l 5.zd.
+Last Cprintf: Caesar: %s%s
+
+Last Command: Caesar in room[11737]: p e.
+Last Cprintf: Caesar: %s
+Last Command: Eltron in room[10804]: i.
+Last Cprintf: Eltron: You are carrying:
+
+Last Command: priestess of Kallana in room[30819]: say be tolerated!.
+Last Cprintf: hobgoblin goblin archer: You sure are BLEEDING!
+
+Last Command: Wern in room[873]: save.
+Last Cprintf: nottingham guard: Your muscles stop responding.
+
+Last Command: 
+Last Cprintf: drunken orc: You shiver and suffer.
+
+Last Command: Hayabusa in room[848]: l.
+Last Cprintf: Hayabusa: %s
+Last Command: Usion in room[23500]: whodesc usion THE IMMORTAL.
+Last Cprintf: Yllidys nether dragon: %s %s
+
+Last Command: Usion in room[23500]: whodesc usion ..
+Last Cprintf: Neuro: Ok.
+
+Last Command: 
+Last Cprintf: drunken orc: You shiver and suffer.
+
+Last Command: Usion in room[5100]: hedit create.
+Last Cprintf: Usion: Created a new help file entry.
+
+Last Command: Usion in room[23501]: hedit create.
+Last Cprintf: Usion: Created a new help file entry.
+
+Last Command: cave bear in room[849]: k not.
+Last Cprintf: nottingham guard: You sure are BLEEDING!
+
+Last Command: 
+Last Cprintf: drunken orc: You shiver and suffer.
+
+Last Command: Avacar in room[23501]: hedit create.
+Last Cprintf: Avacar: Created a new help file entry.
+
+Last Command: Usion in room[7025]: hedit create.
+Last Cprintf: Usion: Created a new help file entry.
+
+Last Command: 
+Last Cprintf: sprout tiny roots: You fail to move silently.
+
+Last Command: Usion in room[23500]: hedit choke.
+Last Cprintf: Usion: You start editing a help file.
+
+Last Command: Usion in room[23500]: hedit 'choke hold'.
+Last Cprintf: Usion: You start editing a help file.
+
+Last Command: sengir bat in room[3025]: emote flaps around your head..
+Last Cprintf: Yllidys nether dragon: %s %s
+
+Last Command: sengir bat in room[3025]: emote flaps around your head..
+Last Cprintf: sengir bat: %s %s
+
+Last Command: armourer armorer in room[3020]: emote wipes some sweat from his brow as he begins to hammer out the dents in a chest plate..
+Last Cprintf: armourer armorer: %s %s
+
+Last Command: sengir bat in room[3016]: emote flaps around your head..
+Last Cprintf: Yllidys nether dragon: Alas, you cannot go that way.
+
+Last Command: Usion in room[23500]: hedit choke.
+Last Cprintf: Usion: You start editing a help file.
+
+Last Command: filthy skulking lizard troglodyte in room[14206]: emote hisses angrily..
+Last Cprintf: avatar goddess selina: You refresh the shielding.
+
+Last Command: raving lunatic in room[31063]: say  effort to reduce the slivers' ability to strike and run..
+Last Cprintf: Nemesys: You offer your victory to %s who rewards you with %d deity points.
+
+Last Command: Usion in room[15800]: switch prog.
+Last Cprintf: Yllidys nether dragon: %s %s
+
+Last Command: Usion in room[15800]: switch prog.
+Last Cprintf: program tester: Ok.
+
+Last Command: Starcrossed in room[23513]: quit.
+Last Cprintf: drunken orc: You shiver and suffer.
+
+Last Command: 
+Last Cprintf: drunken orc: You shiver and suffer.
+
+Last Command: Abacus in room[11326]: quit.
+Last Cprintf: Yllidys nether dragon: %s %s
+
+Last Command: librarian mage elekoth in room[1438]: say Bosco or even to end the war.  Selina does not answer..
+Last Cprintf: Yllidys nether dragon: %s %s
+
+Last Command: Abacus in room[15403]: con fam.
+Last Cprintf: Yllidys nether dragon: %s %s
+
+Last Command: Blitze in room[10903]: quit.
+Last Cprintf: Blitze: Alas, all good things must come to an end.
+
+Last Command: Elias shopkeeper man in room[4769]: say Maverick sells his tin cans at ridiculous prices..
+Last Cprintf: drunken orc: You shiver and suffer.
+
+Last Command: Dack in room[15187]: k bea.
+Last Cprintf: Dack: You offer your victory to %s who rewards you with %d deity points.
+
+Last Command: Usion in room[23500]: l.
+Last Cprintf: Usion: %s
+Last Command: Aurican in room[18950]: inven.
+Last Cprintf: drunken orc: You shiver and suffer.
+
+Last Command: Uub in room[850]: quit.
+Last Cprintf: Uub: Alas, all good things must come to an end.
+
+Last Command: mianda pragmati hunter drow ranger in room[31192]: drop all.
+Last Cprintf: Pyrite: Alas, all good things must come to an end.
+
+Last Command: custodian in room[3007]: sigh.
+Last Cprintf: custodian: {yYou say '%s'{x
+
+Last Command: raving lunatic in room[31063]: say coast as advance dragon parties seek out local settlements and fortifications..
+Last Cprintf: raving lunatic: {yYou say '%s'{x
+
+Last Command: Cyan in room[17011]: quit.
+Last Cprintf: Yllidys nether dragon: %s %s
+
+Last Command: 
+Last Cprintf: Yllidys nether dragon: Alas, you cannot go that way.
+
+Last Command: Ugin in room[3387]: addpart spike.
+Last Cprintf: Ugin: Add what part? Syntax: addpart <part>. See {yhelp addpart{x.
+
+Last Command: Usion in room[24500]: switch noble.
+Last Cprintf: sliver historian: {yYou say '%s'{x
+
+Last Command: Usion in room[23500]: hedit rogue.
+Last Cprintf: Usion: You start editing a help file.
+
+Last Command: Solar in room[24000]: who.
+Last Cprintf: grd nox grdnox adamantite sliver guardian: Alas, you cannot go that way.
+
+Last Command: Usion in room[23500]: switch turk.
+Last Cprintf: rancid turkey leg undead: Ok.
+
+Last Command: sliver historian in room[10889]: say Historial Note:The lands around Old Thalos are infertile to this day..
+Last Cprintf: Yllidys nether dragon: %s %s
+
+Last Command: custodian in room[3045]: sigh.
+Last Cprintf: custodian: {yYou say '%s'{x
+
+Last Command: Usion in room[23500]: slay spider.
+Last Cprintf: Usion: Don't even think about it.
+

@@ -1,0 +1,9 @@
+/area
+/gods
+/log
+/note
+/player
+*.o
+redemption
+save.c.rej
+race
